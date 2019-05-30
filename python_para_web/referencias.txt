@@ -1,0 +1,13 @@
+https://docs.python.org/3/library/json.html
+
+https://realpython.com/python-json/
+
+https://www.w3schools.com/python/python_json.asp
+
+https://s4scoding.com/caesar-cipher-python-code/
+
+https://www.w3resource.com/python-exercises/python-basic-exercise-86.php
+
+https://coredump.pt/questions/42825102/how-to-save-python-dictionary-into-json-files
+
+https://pt.stackoverflow.com/questions/236017/exportando-dados-em-json-ou-txt-no-python
