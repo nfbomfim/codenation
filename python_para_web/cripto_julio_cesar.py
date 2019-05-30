@@ -2,8 +2,8 @@ import requests
 import json
 import hashlib
 
-url_get = "https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=2dc6d8435e4c6c8c9cb920a74b87c62a15d5b8d0"
-url_post = "https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=2dc6d8435e4c6c8c9cb920a74b87c62a15d5b8d0"
+url_get = "https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+url_post = "https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 r = requests.get(url_get)
 r.status_code
